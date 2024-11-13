@@ -1,0 +1,19 @@
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.BG {
+  background-color: #6167A3;
+}
+
+
+.GRAY {
+  background-color: #EEEEEE;
+  color : black;
+}
